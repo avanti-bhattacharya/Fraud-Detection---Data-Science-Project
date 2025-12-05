@@ -41,9 +41,6 @@ fintech-fraud-detection/
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## Key Insights from Analysis
