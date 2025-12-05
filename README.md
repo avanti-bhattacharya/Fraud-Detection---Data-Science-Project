@@ -22,27 +22,6 @@ The dataset is extremely imbalanced, which reflects real-world fraud behavior.
 
 ---
 
-## Project Structure
-
-fintech-fraud-detection/
-│
-├── notebooks/
-│ ├── 01_cleaning.ipynb
-│ ├── 02_EDA.ipynb
-│ ├── 03_modeling.ipynb
-│ └── 04_business_impact.ipynb
-│
-├── data/
-│ ├── raw/onlinefraud.csv
-│ └── processed/onlinefraud_clean.csv
-|
-├── images/
-├── 
-├── requirements.txt
-└── README.md
-
----
-
 ## Key Insights from Analysis
 
 | Insight | Why it matters |
