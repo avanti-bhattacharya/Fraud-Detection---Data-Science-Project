@@ -9,3 +9,4 @@ __pycache__/
 data/processed/
 data/raw/
 data/raw/onlinefraud.csv
+data/raw/onlinefraud.csv
