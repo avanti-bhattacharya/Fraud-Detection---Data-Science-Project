@@ -99,7 +99,7 @@ No external ML frameworks used — intentionally scoped for clarity.
 ---
 
 ## Author
-**Aditya Bhise**  
+**Avanti Bhattacharya**  
 Data Science & Economics — Krea University  
 Interests: product analytics, financial risk insights, ML for decision-making# Fraud-Detection-Fintech-DataScience-Project
 # Fraud-Detection---Project-1
